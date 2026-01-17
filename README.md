@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Akshayaa
 
-**Data Scientist & ML Engineer** specializing in agentic AI systems, financial modeling, and NLP applications.
+**Data Scientist & Aspiring ML Engineer** specializing in agentic AI systems, financial modeling, and NLP applications.
 
 🎓 MS Data Science @ Columbia University (Dec 2025)  
 🔬 4+ years experience in Data Science & Analytics  
