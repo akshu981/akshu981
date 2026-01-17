@@ -11,7 +11,8 @@ Currently building intelligent systems that bridge machine learning and real-wor
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, MATLAB  
-**Data Science:** PyTorch, Pandas, Scikit-learn, TensorFlow, Keras, Numpy, Tidyverse
+**Data Science:** PyTorch, Pandas, Scikit-learn, TensorFlow, Keras, Numpy, Tidyverse  
+**Quantitative Finance and Risk Systems:** Volatility Modeling, Monte Carlo Simulation, Stochastic Processes, Black-Scholes Options Pricing
 
 ### 🚀 Featured Projects
 - **Portfolio Analysis AI Agent** - LLM-powered 13F filing analyzer
