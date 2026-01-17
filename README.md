@@ -10,7 +10,7 @@
 Currently building intelligent systems that bridge machine learning and real-world impact across finance, healthcare, and media.
 
 ### 🛠️ Tech Stack
-**Languages:** Python, R, SQL, MATLAB
+**Languages:** Python, R, SQL, MATLAB  
 **Data Science:** PyTorch, Pandas, Scikit-learn, TensorFlow, Keras, Numpy, Tidyverse
 
 ### 🚀 Featured Projects
