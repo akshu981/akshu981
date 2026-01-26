@@ -3,8 +3,8 @@
 **Data Scientist & Aspiring ML Engineer** specializing in agentic AI systems, financial modeling, and NLP applications.
 
 🎓 MS Data Science @ Columbia University (Dec 2025)    
-🔬 4+ years professional experience in Data Science & Analytics across Non-profit, Real Estate & Finance
-📚 Undergraduate background in Applied Mathematics (liberal arts)
+🔬 4+ years professional experience in Data Science & Analytics across Non-profit, Real Estate & Finance  
+📚 Undergraduate background in Applied Mathematics (liberal arts)  
 🔍 Focus areas: Algorithmic Trading, Risk Modeling, AI Agents, Healthcare ML  
 📍 Based in New York City
 
