@@ -8,7 +8,7 @@
 🔍 Focus areas: Algorithmic Trading, Risk Modeling, AI Agents, Healthcare ML  
 📍 Based in New York City
 
-Currently building intelligent systems that bridge machine learning and real-world impact across finance, healthcare, and media.
+Currently building intelligent systems that bridge machine learning and real-world impact across finance and investment.
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, MATLAB  
