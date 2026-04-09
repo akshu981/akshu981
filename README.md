@@ -10,6 +10,12 @@
 
 Currently building intelligent systems that bridge machine learning and real-world impact across finance and investment.
 
+## 📖 My Story
+✍🏽[From Nepal to New York City — my Columbia journey](Data%20Science%20Journey%20%40%20Columbia.md)
+
+<br>
+
+
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, MATLAB  
 **Data Science:** PyTorch, Pandas, Scikit-learn, TensorFlow, Keras, Numpy, Tidyverse  
