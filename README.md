@@ -1,6 +1,7 @@
 ## Hi there! 👋 I'm Akshayaa
 
-**Data Scientist & Aspiring Risk Engineer** specializing in financial modeling, machine learning, and agentic AI systems.
+**Data Scientist & Aspiring Risk Engineer** specializing in financial modeling, machine learning, and agentic AI systems. <br>
+At my core, I'm a data enthusiast who's always been drawn to the finance and risk side of the field, where numbers meet real-world implications. 
 
 🎓 MS Data Science @ Columbia University (Dec 2025) <br>
 🌊 4+ years professional experience in Data Science & Analytics across non-profit, real estate & finance <br>
