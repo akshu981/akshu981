@@ -23,9 +23,9 @@ Currently building intelligent systems that bridge machine learning and real-wor
 **Quantitative Finance and Risk Systems:** Volatility Modeling, Monte Carlo Simulation, Stochastic Processes, Black-Scholes Options Pricing
 
 ### 🚀 Featured Projects
+- **Insurance Underwriting Pricing Model (Ongoing)** - ML pipeline that predicts auto insurance claim frequency and severity for pricing decisions
 - **Portfolio Analysis AI Agent** - LLM-powered 13F filing analyzer
 - **Cancer Type Prediction** - ML model using TCGA genomic data (83% accuracy)
 - **Traffic Fatality Analysis** - Data visualization of 29-year crash trends
-- **KAMA Trading Algorithm** - Algorithmic trading strategy with backtesting
 
 📫 Let's connect: [LinkedIn](https://linkedin.com/in/akshayaa2016) | akshayaa2016@gmail.com
