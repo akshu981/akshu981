@@ -16,6 +16,11 @@ Currently building intelligent systems that bridge machine learning and real-wor
 
 <br>
 
+## 💭 A Writing piece
+✍🏽[My take on superintelligence](My%20take%20on%20superintelligence.md)
+
+<br>
+
 
 ### 🛠️ Tech Stack
 **Languages:** Python, R, SQL, MATLAB  
