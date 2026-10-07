@@ -2,7 +2,7 @@
 
 © 10/07/2026 Akshayaa Shrestha
 
-I have been meaning to write about this as I cannot stop thinking about what is happening right now with states, political actors, and media organizations embracing the concept of superintelligence. Humankind is something that I deem is irreplaceable. We humans value optimal connections, bonds, but somewhere along the way have we failed to accept that we are indeed imperfect? How can we allow the notion that superintelligence is what it would take for a country to be better than any other? AI has become a political weapon right now. What started as something that was meant to serve humanity, solve problems, and make things easier has become a mockery. 
+I have been meaning to write about this as I cannot stop thinking about what is happening right now with states, political actors, and media organizations embracing the concept of superintelligence. Humankind is something that I deem is irreplaceable. We humans value optimal connections, bonds, but somewhere along the way we have failed to accept that we are indeed imperfect. How can we allow the notion that superintelligence is what it would take for a country to be better than any other? AI has become a political weapon right now. What started as something that was meant to serve humanity, solve problems, and make things easier has become a mockery. 
 
 When top researchers and scientists like Jacob Coxon and Joe Benton left Anthropic which dominates the AI industry, how is that not in itself, a warning signal that we humans NEED TO SLOW DOWN. Not for anyone else, but for us. For the sake of humanity. 
 
