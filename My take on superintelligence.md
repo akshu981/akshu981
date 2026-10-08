@@ -14,4 +14,4 @@ I studied deep learning and machine learning at Columbia, and these subjects are
 
 If there can be regulations around healthcare, insurance, finance, and trade, why can there not be one for AI: an industry that is booming and widely being used by startups and organizations in every country? Yes, it certainly was not a linear path to determine rules and regulations for any of these industries, but we have to start somewhere. 
 
-My question is: **have we focused so much on optimizing and making everything better, be it in our relationships, business products, systems, school essays, that we are failing to embrace imperfection and the idea that it is okay to not have to rely on supersystems all the time?** This is not only political, but also psychological. 
+My question is: **have we focused so much on optimizing and making everything better, be it our relationships, business products, systems, school essays, that we are failing to embrace imperfection and the idea that it is okay to not have to rely on supersystems all the time?** This is not only political, but also psychological. 
