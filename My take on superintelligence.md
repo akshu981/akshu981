@@ -4,7 +4,7 @@
 
 I have been meaning to write about this as I cannot stop thinking about what is happening right now with states, political actors, and media organizations embracing the concept of superintelligence. Humankind is something that I deem is irreplaceable. We value optimal connections, bonds, and processes, but somewhere along the way we have failed to accept that we are indeed imperfect. How can we allow the notion that superintelligence is what it would take for a country to be better than another? AI has become a political weapon right now. What started as something that was meant to serve humanity, solve problems, and make things easier has become a mockery. 
 
-When top researchers and scientists like Jacob Coxon and Joe Benton left Anthropic which dominates the AI industry, how is that not in itself, a warning signal that we humans NEED TO SLOW DOWN. Not for anyone else, but for us. For the sake of humanity. 
+When top researchers and scientists like Jacob Coxon and Joe Benton left Anthropic, which dominates the AI industry, how is that not in itself, a warning signal that we humans NEED TO SLOW DOWN. Not for anyone else, but for us. For the sake of humanity. 
 
 When Coxon says “AI could kill us all by the end of the decade” in his [CNN interview](https://www.youtube.com/watch?v=i30jVPqQeOM), he is really depicting the worst-case scenario here. He is not forcing us to embrace the idea of jumping into an imaginary world where robots like species take over the grounds on earth, march on it (like in the Transformers movie), and shove weapons onto us. He is merely sharing where we are right now with progress in AI, and where we could possibly end up if regulations around AI are not enforced. 
 
